@@ -31,3 +31,5 @@ Pretendo cursar Ciencia da Computação este ano, para iniciar minha carreira co
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosantosp)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
