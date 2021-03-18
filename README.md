@@ -17,3 +17,5 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancjo&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) -->
