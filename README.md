@@ -38,7 +38,10 @@ Pretendo cursar Ciencia da Computação este ano, para iniciar minha carreira co
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511962739816&text=Ol%C3%A1%2C%20me%20mande%20uma%20mensagem.)
 <p><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+</p>
+<p>
 caio.sportugal@hotmail.com
 </p>
+
 
 
