@@ -18,4 +18,4 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancjo&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosantosp)](https://github.com/anuraghazra/github-readme-stats)
