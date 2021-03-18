@@ -9,7 +9,7 @@
 
 ### Tecnologias
 
-<p> Estas são algumas das tecnologias e ferramentas que venho me aprimorando:</p>
+<p> No momento estudo estas tecnologias:</p>
 
 <span> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
