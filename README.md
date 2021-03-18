@@ -1,5 +1,8 @@
 # Olá, I'm Caio! 😁💻
 
+<p>Apaixonado por tecnologia desde sempre, sonho em me tornar um desenvolvedor Backend. Utilizo a linguagem Java no meu dia a dia e é nela que desejo me aprofundar cada vez mais.
+Pretendo cursar Ciencia da Computação este ano, para iniciar minha carreira como Desenvolvedor.  </p>
+
 <hr>
 
 ### Conheça mais sobre mim:
