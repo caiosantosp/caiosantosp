@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiosan_hs/)
 
 <hr>
+
 ### Tecnologias
 
 <p> Estas são algumas das tecnologias e ferramentas que venho me aprimorando:</p>
