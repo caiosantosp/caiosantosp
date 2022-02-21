@@ -3,8 +3,8 @@
 <hr>
 
 <p>Apaixonado por tecnologia desde sempre, sonho em me tornar um desenvolvedor Backend. 
-Utilizo a linguagem Java no meu dia a dia e é nela que desejo me aprofundar cada vez mais.
-Pretendo cursar Ciencia da Computação este ano, para iniciar minha carreira como Desenvolvedor.  </p>
+Utilizo a linguagem C# no meu dia a dia e é nela que desejo me aprofundar cada vez mais. Atualmente estou praticando desenvolvimento web com ASP Net Core.
+Estou cursando o 2° Semestre em Ciencia da Computação.</p>
 
 <hr>
 
