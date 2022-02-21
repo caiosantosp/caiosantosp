@@ -2,9 +2,9 @@
 
 <hr>
 
-<p>Apaixonado por tecnologia desde sempre, sonho em me tornar um desenvolvedor Backend. 
-Utilizo a linguagem C# no meu dia a dia e é nela que desejo me aprofundar cada vez mais. Atualmente estou praticando desenvolvimento web com ASP Net Core.
-Estou cursando o 2° Semestre em Ciencia da Computação.</p>
+<p>Apaixonado por tecnologia desde sempre, sonho em me tornar um desenvolvedor Backend. </p>
+<p>Utilizo a linguagem C# no meu dia a dia e é nela que desejo me aprofundar cada vez mais. Atualmente estou praticando desenvolvimento web com ASP Net Core.</p>
+<p>Estou cursando o 2° Semestre em Ciencia da Computação.</p>
 
 <hr>
 
