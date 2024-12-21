@@ -4,7 +4,7 @@
 
 <p>Apaixonado por tecnologia desde sempre, sonho em me tornar um desenvolvedor Backend. </p>
 <p>Utilizo as linguagens C# e Java no meu dia a dia e são nelas que desejo me aprofundar cada vez mais. Atualmente estou praticando desenvolvimento web com ASP Net Core.</p>
-<p>Estou cursando o 2° Semestre em Ciencia da Computação.</p>
+<p>Estou cursando o 4° Semestre em Ciencia da Computação.</p>
 
 <hr>
 
